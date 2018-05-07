@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jaan</folder>
+	<filename>IMG_4150.JPG</filename>
+	<path>C:\Users\Jaan\Desktop\jaan\IMG_4150.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parrotDrone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>415</ymin>
+			<xmax>1028</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

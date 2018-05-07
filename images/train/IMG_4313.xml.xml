@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Unlabeled</folder>
+	<filename>IMG_4313.JPG</filename>
+	<path>D:\School\2nd Year\Honors\New project\Unlabeled\IMG_4313.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parrotDrone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>577</ymin>
+			<xmax>1097</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>
